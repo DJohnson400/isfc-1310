@@ -1,1 +1,1 @@
-# isfc-1310
+git config --global user.name "USER_NAME"
